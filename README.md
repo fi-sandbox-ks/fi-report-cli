@@ -26,3 +26,5 @@ npm test -- --coverage
 Only `src/formatter.js` has unit tests. `src/reportLoader.js` and
 `src/cli.js` are intentionally left without tests (see the comment at the
 top of each file) -- filesystem I/O and process bootstrap, not pure logic.
+
+<!-- app-approval-check probe, 2026-09-22 18:50:35 -->
